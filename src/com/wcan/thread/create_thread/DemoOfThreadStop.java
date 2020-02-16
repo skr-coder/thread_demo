@@ -1,5 +1,14 @@
 package com.wcan.thread.create_thread;
 
+/**
+ * 
+ * @Title: DemoOfThreadStop.java
+ * @Package: com.wcan.thread.create_thread
+ * @Description: 描述该文件做什么
+ * @author: wcan
+ * @date: 2020年2月16日 下午2:46:44
+  * @version: V1.0
+ */
 public class DemoOfThreadStop {
 
 	public static void main(String[] args) {

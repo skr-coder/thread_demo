@@ -8,6 +8,7 @@ package com.wcan.thread.create_thread;
  * @author: wcan
  * @date: 2020年1月4日 上午12:04:38
   * @version: V1.0
+  * 第一个版本
  */
 public class DemoOfTheSellTicket {
 
@@ -60,6 +61,7 @@ class TheWayOfImplements implements Runnable {
 			System.out.println(Thread.currentThread().getName()+"卖了一张票，票数余额："+(--tickets));
 		}
 	}
+	
 	
 }
 
